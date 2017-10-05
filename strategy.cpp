@@ -392,7 +392,7 @@ int main() {
 		deps.eb(d);
 	}
 
-	// Output the cummulative point values
+	// Output the cumulative point values
 	f0r (i, n) {
 		cout << t[i].f << ' ' << t[i].s << endl;
 		f0r (j, total[i].size())

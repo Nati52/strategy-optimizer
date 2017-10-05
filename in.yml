@@ -1,0 +1,38 @@
+---
+buildTime:
+compTime:
+mechanisms:
+    -   name: 'a'
+        buildTime:
+actions:
+    -   repeatList:
+            -   reps:
+                points:
+            -   reps:
+                points:
+        mechanisms:
+            -   name:
+                time:
+                probSuccess:
+        timeForArchetype:
+        probForArchetype:
+specialActions:
+    -   repeatList:
+            -   reps:
+                points:
+        mechanisms:
+            -   name:
+                time:
+                probSuccess:
+        timeForArchetype:
+dependencies:
+    -   pointsToEarn:
+        pointReward:
+        actionsThatCount:
+            - 2
+            - 3
+        requiredSpecial:
+            -   maxNumBots:
+                specialAction:
+                maxPerBot:
+
