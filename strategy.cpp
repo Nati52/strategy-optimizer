@@ -1,4 +1,8 @@
-#include <bits/stdc++.h>
+#include <vector>
+#include <map>
+#include <cmath>
+#include <iostream>
+
 using namespace std;
 
 typedef vector<int> vi;
@@ -11,7 +15,6 @@ typedef pair<double, double> pdd;
 #define f first
 #define s second
 #define f0r(i, a) for (int i = 0; i < a; i++)
-#define f1r(i, a, b) for (int i = a; i < b; i++) 
 
 struct depend {
 	vector<int> reqs;
